@@ -1,4 +1,4 @@
-# sc.insights
+# 认识自己
 
 # 方法论 Methodology
 
